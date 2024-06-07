@@ -7,4 +7,4 @@ Estou estudando na [Alura](https//www.alura.com.br)
 Estou me desenvolvendo na linguagem JavaScript
 
 
-![](https://tenor.com/bQTtp.gif)
+![](https://tenor.com/pt-BR/view/cat-couple-cute-cats-cutecatz-kitten-kitty-gif-24960285)
